@@ -27,8 +27,8 @@ function getNextShapeID() {
     return Global.DEBUG.nextShapeID;
 }
 
-const hostName = "exp-host";
-const joinName = "exp-join";
+const hostName = "tdebug-host";
+const joinName = "tdebug-join";
 function debugHost() {
     Global.MP.username = hostName;
     hostLobby();
