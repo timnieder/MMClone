@@ -1,6 +1,6 @@
 ![logo](logo.png)
 
-A Game Framework to load and play MicroMacro-like maps and cases.
+A game (framework) to load and play MicroMacro-like wimmelbild maps and cases.
 Uses Leaflet to show the map.
 
 You need to first load a map before being able to play. A test map is available through the menu (Click "Load Test Map").
